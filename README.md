@@ -1,4 +1,4 @@
-# Rotating Widget
+# Flutter Rotation Widget
 
 A Flutter package that provides a customizable 3D rotating widget with support for touch gestures and gyroscope-based rotation. Perfect for creating interactive UI elements, product showcases, or engaging user experiences.
 
@@ -14,11 +14,11 @@ A Flutter package that provides a customizable 3D rotating widget with support f
 
 ## Getting Started
 
-Add `rotating_widget` to your `pubspec.yaml`:
+Add `flutter_rotation_widget` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  rotating_widget: ^1.0.0
+  flutter_rotation_widget: ^1.0.0
 ```
 
 Then run:
@@ -32,7 +32,7 @@ flutter pub get
 ### Simple Rotating Widget
 
 ```dart
-import 'package:rotating_widget/rotating_widget.dart';
+import 'package:flutter_rotation_widget/flutter_rotation_widget.dart';
 
 RotatingWidget(
   child: Container(

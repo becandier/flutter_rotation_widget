@@ -1,7 +1,7 @@
-name: rotating_widget
-description: "Rotating widget for Flutter"
+name: flutter_rotation_widget
+description: "A Flutter widget that provides customizable 3D rotation effects with touch gestures and gyroscope support"
 version: 1.0.0
-homepage: https://github.com/becandier/rotating_widget
+homepage: https://github.com/becandier/flutter_rotation_widget
 
 environment:
   sdk: ^3.9.0
