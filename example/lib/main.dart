@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rotating_widget/rotating_widget.dart';
+import 'package:flutter_rotation_widget/flutter_rotation_widget.dart';
 
 void main() {
   runApp(const MyApp());

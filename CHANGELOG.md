@@ -1,3 +1,11 @@
+## 1.0.1
+
+### 🐛 Bug Fixes & Improvements
+
+* Fixed import path in example app (`rotating_widget` → `flutter_rotation_widget`)
+* Added demo section to README with GIF placeholder
+* Improved documentation structure
+
 ## 1.0.0
 
 ### 🎉 Initial Release

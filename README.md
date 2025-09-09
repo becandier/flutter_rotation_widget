@@ -2,6 +2,12 @@
 
 A Flutter package that provides a customizable 3D rotating widget with support for touch gestures and gyroscope-based rotation. Perfect for creating interactive UI elements, product showcases, or engaging user experiences.
 
+## Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/becandier/flutter_rotation_widget/main/demo.gif" alt="Flutter Rotation Widget Demo" width="300"/>
+</p>
+
 ## Features
 
 ✨ **3D Rotation Effects** - Smooth 3D transformations with perspective projection  
